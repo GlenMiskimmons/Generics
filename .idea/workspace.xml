@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d462ddae-652b-4636-92e7-e7805e1d4600" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/MapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,25 +23,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="12" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="12" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="111" />
+          <entry key="java" value="779" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="111" />
+          <entry key="JAVA" value="779" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -78,60 +79,57 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_1_what_and_why_of_generics/TypeUnsafeExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/MapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_1_what_and_why_of_generics/StringCircularBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_1_what_and_why_of_generics/CircularBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="493">
+              <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
               <folding>
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/Person.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/SortingExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="374">
+              <caret line="24" column="79" lean-forward="true" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/ReverseComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
               <folding>
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/TheArrayProblem.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/AgeComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,11 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/SetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,6 +182,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/ListExamples.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/SetExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/MapExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/AgeComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/ReverseComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/SortingExamples.java" />
       </list>
     </option>
   </component>
@@ -203,10 +206,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,8 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,31 +258,38 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="_2_collections" type="462c0819:PsiDirectoryNode" />
+              <item name="_3_classes_and_interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541450169877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541502363249" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_2_collections" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_3_classes_and_interfaces" />
+      <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_1_what_and_why_of_generics" />
+      <recent name="C:\DEV\Training\Java\Generics\src\test\java\com\pluralsight\generics\_1_what_and_why_of_generics" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.pluralsight.generics._1_what_and_why_of_generics" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_1_what_and_why_of_generics" />
-      <recent name="C:\DEV\Training\Java\Generics\src\test\java\com\pluralsight\generics\_1_what_and_why_of_generics" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_2_collections" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,9 +304,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetExample">
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.generics._2_collections.SetExample" />
+  <component name="RunManager" selected="Application.SortingExamples">
+    <configuration name="SortingExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.generics._3_classes_and_interfaces.SortingExamples" />
       <module name="Generics" />
       <extension name="coverage">
         <pattern>
@@ -330,12 +339,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SetExample" />
+      <item itemvalue="Application.SortingExamples" />
       <item itemvalue="JUnit.CircularBufferTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.SortingExamples" />
         <item itemvalue="JUnit.CircularBufferTest" />
       </list>
     </recent_temporary>
@@ -359,10 +368,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1417" extended-state="0" />
+    <frame x="-8" y="-8" width="1888" height="1110" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23419774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25273523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,13 +380,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" visible="true" weight="0.32889345" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32969603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -387,7 +396,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.1993517" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.098468274" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -410,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_1_what_and_why_of_generics/TypeUnsafeExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -435,9 +444,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/TheArrayProblem">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/TheArrayProblem" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -458,6 +465,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/SetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/ListExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -468,13 +485,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/SetExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_2_collections/MapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="493">
+          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/Person.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/ReverseComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/AgeComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_3_classes_and_interfaces/SortingExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="79" lean-forward="true" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
         </state>
       </provider>
     </entry>
