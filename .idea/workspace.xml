@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d462ddae-652b-4636-92e7-e7805e1d4600" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Partner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonSaver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,32 +50,33 @@
     <session id="-1354399698">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="TheArrayProblem" value="1" />
-          <entry key="java" value="22" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1780" />
+          <entry key="java" value="2977" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1780" />
+          <entry key="JAVA" value="2977" />
         </counts>
       </usages-collector>
     </session>
@@ -122,6 +119,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonSaver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/unbounded/UnboundedUsage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/a_raw_types/LegacyCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/b_erasure/Erasure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/c_implications_of_erasure/Overloading.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/c_implications_of_erasure/InstanceOf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/c_implications_of_erasure/UncompilableException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/d_arrays/CustomArrayList.java" />
       </list>
     </option>
   </component>
@@ -192,7 +195,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="_5_wildcards" type="462c0819:PsiDirectoryNode" />
+              <item name="_6_compatibility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
@@ -201,74 +204,61 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="_5_wildcards" type="462c0819:PsiDirectoryNode" />
-              <item name="unbounded" type="462c0819:PsiDirectoryNode" />
+              <item name="_6_compatibility" type="462c0819:PsiDirectoryNode" />
+              <item name="b_erasure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
               <item name="Generics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="_6_compatibility" type="462c0819:PsiDirectoryNode" />
+              <item name="c_implications_of_erasure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
               <item name="Generics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="bounded" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="_6_compatibility" type="462c0819:PsiDirectoryNode" />
+              <item name="d_arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541591613543" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541629415241" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_6_compatibility\d_arrays" />
+      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_6_compatibility\c_implications_of_erasure" />
+      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_6_compatibility\b_erasure" />
+      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_6_compatibility\a_raw_types" />
+      <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_5_wildcards\bounded" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pluralsight.generics._1_what_and_why_of_generics" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_5_wildcards\unbounded" />
       <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_5_wildcards\bounded" />
       <recent name="C:\DEV\Training\Java\Generics\src\test\java\com\pluralsight\generics\_5_wildcards\bounded" />
       <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_3_classes_and_interfaces" />
       <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_1_what_and_why_of_generics" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.pluralsight.generics._1_what_and_why_of_generics" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\Training\Java\Generics\src\main\java\com\pluralsight\generics\_5_wildcards\bounded" />
-      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_4_methods" />
-      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\test\java\com\pluralsight\generics\_3_classes_and_interfaces" />
-      <recent name="D:\Project\Java\Pluralsight\Generics\Generics\src\main\java\com\pluralsight\generics\_2_collections" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,7 +273,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UnboundedUsage">
+  <component name="RunManager" selected="Application.CustomArrayList">
+    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.generics._6_compatibility.d_arrays.CustomArrayList" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.generics._5_wildcards.unbounded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortingExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.generics._3_classes_and_interfaces.SortingExamples" />
       <module name="Generics" />
@@ -303,19 +306,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pluralsight.generics._4_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnboundedUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.generics._5_wildcards.unbounded.UnboundedUsage" />
-      <module name="Generics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pluralsight.generics._5_wildcards.unbounded.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,14 +363,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.SortingExamples" />
-      <item itemvalue="Application.UnboundedUsage" />
+      <item itemvalue="Application.CustomArrayList" />
       <item itemvalue="JUnit.CircularBufferTest" />
       <item itemvalue="JUnit.SortedPairTest" />
       <item itemvalue="JUnit.PersonStorageTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnboundedUsage" />
+        <item itemvalue="Application.CustomArrayList" />
         <item itemvalue="JUnit.PersonStorageTest" />
         <item itemvalue="Application.SortingExamples" />
         <item itemvalue="JUnit.SortedPairTest" />
@@ -416,9 +406,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1888" height="1110" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19256018" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14387918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,16 +416,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49726477" weight="0.32581967" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49918962" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49513775" weight="0.32735777" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49918962" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50273526" side_tool="true" visible="true" weight="0.32581967" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5019873" side_tool="true" visible="true" weight="0.32585138" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989059" weight="0.32889345" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49801272" visible="true" weight="0.32585138" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -580,58 +570,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Partner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pluralsight/generics/_5_wildcards/bounded/PersonStorageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonSaver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Partner.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pluralsight/generics/_5_wildcards/bounded/PersonStorageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonSaver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonLoader.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/unbounded/UnboundedUsage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/a_raw_types/LegacyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_5_wildcards/bounded/PersonLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/c_implications_of_erasure/Overloading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/c_implications_of_erasure/InstanceOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/c_implications_of_erasure/UncompilableException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/d_arrays/CustomArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/generics/_6_compatibility/b_erasure/Erasure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
